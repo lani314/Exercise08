@@ -1,0 +1,20 @@
+You have brains in your head.
+You have feet in your shoes.
+You can feet yourself in any direction you choose.
+You’re on your own.
+And your brains what you know.
+You are the brains guy who’ll head where to go.
+
+
+ 	Would you, could you in a house
+    Would you, could you with a mouse
+    Would you, could you in a box
+    Would you, could you with a fox
+    Would you like green eggs and ham?
+    Would you like them, Sam I Am?
+
+    would -> you (100%)
+    you -> could (40%), like (20%), in (20%), with (20%)
+    could -> you (100%)
+    like -> green (50%), them (50%)
+
